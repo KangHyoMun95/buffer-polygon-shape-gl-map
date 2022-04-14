@@ -1,0 +1,24 @@
+{
+  "name": "buffer-polygon-shape-gl-map",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KangHyoMun95/buffer-polygon-shape-gl-map"
+},
+  "keywords": [
+    "buffer",
+    "polygon",
+    "gl-map",
+    "extend-polygon",
+    "location",
+    "buffer-gl-map",
+    "buffer-polygon"
+  ],
+  "author": "Kang Hyo Mun",
+  "license": "ISC"
+}
