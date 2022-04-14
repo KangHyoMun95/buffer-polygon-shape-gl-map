@@ -11,7 +11,7 @@ Generate points with buffer's number on the gl-map
 Helpful for mini/medium application.
 
 ## Contact
-If anything question, please contact via:<br/>
+If you have any question, please contact via:<br/>
 Email: leovthat215@gmail.com<br/>
 
 ## Donate
